@@ -2,6 +2,8 @@
 
 I made a portfolio website for a friend of mine so that he can showcase his skills and the projects that he made. 
 
+Live page ([MinLwin's-project](https://golden-sawine-e53f38.netlify.app/))
+
 ## Tools used
 
 - React JS
